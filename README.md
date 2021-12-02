@@ -3,7 +3,7 @@
 ## Requisitos
 - [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)<br>
 - [NodeJS 14+](https://nodejs.org/en/) 
-- Aplicação Rails rodando na porta 5000
+- [Aplicação Rails](https://github.com/rafikmoreira/ProtegTO-DO) rodando na porta 5000
 
 
 ## Execução
