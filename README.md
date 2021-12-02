@@ -10,7 +10,7 @@ Aplicação Rails rodando na porta 5000
 
 ### Comandos
 
-Dentro do diretório do projeto, abra o terminal e digite os seguinte comando
+Dentro do diretório do projeto, abra o terminal e digite o seguinte comando
 
 yarn -i && yarn start
 
