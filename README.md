@@ -1,4 +1,4 @@
-# ProtegToDo ReactJS
+# ProtegTO-DO ReactJS
 
 ## Requisitos
 [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)<br>
